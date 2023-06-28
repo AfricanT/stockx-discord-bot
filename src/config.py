@@ -1,5 +1,5 @@
 # Discord Bot Token
-TOKEN = ''
+TOKEN = 'MTEyMzc0NjY4NTYzNDQ4MjI1Ng.GRt55P.C0yDgaYgN0QpjXjEtwwxIhrtlc54Lp0EqKC5fQ'
 
 # Discord Channel ID
-CHANNEL_ID = ''
+CHANNEL_ID = '1123748197660119153'
